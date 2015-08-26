@@ -7,3 +7,5 @@ the file changes
 the second changes
 
 the third changes
+
+the newbranch changes 
